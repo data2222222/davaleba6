@@ -1,0 +1,201 @@
+li {
+	list-style: none;
+	display: inline-block;
+}
+.logo {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 29px;
+}
+.home {
+	margin-left: 250px;
+	color: #000;
+	font-family: Roboto;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.discovery {
+	margin-left: 50px;
+	color: #000;
+	font-family: Roboto;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.photos {
+	margin-left: 50px;
+	color: #000;
+	font-family: Roboto;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.contact {
+	margin-left: 50px;
+	color: #000;
+	font-family: Roboto;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.tranding {
+	margin-left: 250px;
+	color: #000;
+	font-family: Roboto;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-top: 42px;
+}
+.pic1{
+	display: inline-block;
+	margin-left: 250px;
+	margin-top: 27px;
+	vertical-align: middle;
+}
+.pic2{
+	display: inline-block;
+	margin-left: 90px;
+	margin-top: 27px;
+	vertical-align: middle;
+}
+.pic3{
+	display: inline-block;
+	margin-left: 90px;
+	margin-top: 27px;
+	vertical-align: middle;
+}
+
+.box1{
+	width: 362px;
+	height: 171px;
+	border-color: orangered;
+	display: inline-block;
+	margin-left: 250px;
+	background-color: lightgrey;
+	vertical-align: middle;
+}
+.box2{
+	width: 362px;
+	height: 171px;
+	display: inline-block;
+	margin-left: 90px;
+	background-color: lightgrey;
+	vertical-align: middle;
+}
+.box3{
+	width: 362px;
+	height: 171px;
+	display: inline-block;
+	margin-left: 90px;
+	background-color: lightgrey;
+	vertical-align: middle;
+}
+
+.boxtext1 {
+	display: inline-block;
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-top: 68px;
+	margin-left: 37px;
+
+}
+.boxtext2 {
+	display: inline-block;
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-top: 68px;
+	margin-left: 37px;
+
+}
+.boxtext3 {
+	display: inline-block;
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-top: 68px;
+	margin-left: 37px;
+
+}
+.elipse1 {
+	display: inline-block;
+	margin-left: 40px;
+	margin-top: 12px;
+}
+.elipse2 {
+	display: inline-block;
+	margin-left: 40px;
+	margin-top: 12px;
+}
+.elipse3 {
+	display: inline-block;
+	margin-left: 40px;
+	margin-top: 12px;
+}
+h2 {
+	display: inline-block;
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	height: 10px;
+}
+.happening {
+	color: #000;
+	font-family: Roboto;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 800;
+	line-height: normal;
+	margin-left: 250px;
+	margin-top: 57px;
+}
+.img1 {
+	margin-left: 250px;
+	margin-top: 30px;
+	display: inline-block;
+}
+.img2 {
+	margin-left: 45px;
+	margin-bottom: 218px;
+	display: inline-block;
+}
+.img3 {
+	margin-left: 250px;
+	margin-top: 42px;
+	margin-bottom: 36px;
+	display: inline-block;
+}
+.img4 {
+	margin-bottom: 200px;
+	margin-left: 45px;
+	display: inline-block;
+}
+.img5 {
+	margin-bottom: 36px;
+	display: inline-block;
+}
+.bluebox {
+	background: #243043;
+	width: 1920px;
+	height: 201px;
+}
