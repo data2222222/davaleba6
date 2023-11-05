@@ -169,33 +169,102 @@ h2 {
 	margin-left: 250px;
 	margin-top: 57px;
 }
-.img1 {
+
+.imgbox1 {
+	width: 760px;
+	height: 910px;
+	display: inline-block;
+}
+.boxpic1 {
+
 	margin-left: 250px;
 	margin-top: 30px;
-	display: inline-block;
 }
-.img2 {
-	margin-left: 45px;
-	margin-bottom: 218px;
-	display: inline-block;
-}
-.img3 {
-	margin-left: 250px;
+.boxpic2 {
 	margin-top: 42px;
-	margin-bottom: 36px;
+	margin-left: 250px;
+}
+
+
+.imgbox2 {
+	width: 220px;
+	height: 910px;
+	display: inline-block;
+	border-color: orangered;
+	margin-left: 300px;
+}
+
+.boxpic4 {
+	margin-top: 98px;
+}
+
+.boxpic5 {
+	margin-top: 103px;
+}
+
+.div1 .div2 .div3 {
+	width: 70px;
+	height: 130px;
 	display: inline-block;
 }
-.img4 {
-	margin-bottom: 200px;
-	margin-left: 45px;
+
+.div1 {
 	display: inline-block;
+	margin-top: 59px;
+	margin-left: 137px;
 }
-.img5 {
-	margin-bottom: 36px;
+.div2 {
 	display: inline-block;
+	margin-top: 59px;
+	margin-left: 90px;
 }
+
+.div3 {
+	display: inline-block;
+	margin-top: 59px;
+	margin-left: 90px;
+}
+ h3 {
+ 	color: #818687;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-top: 14px;
+ }
+ .txt1 {
+ 	margin-top: 14px;
+ }
+
+
+
+
+
+
 .bluebox {
 	background: #243043;
 	width: 1920px;
 	height: 201px;
+	margin-top: 36px;
+}
+
+.stay {
+	color: #FFF;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	display: inline-block;
+	height: 24px;
+	margin-left: 112px;
+	vertical-align: middle;
+	margin-bottom: 80px;
+}
+
+.Glogo {
+	margin-left:716px ;
+	margin-bottom: 60px ;
+	display: inline-block;
 }
